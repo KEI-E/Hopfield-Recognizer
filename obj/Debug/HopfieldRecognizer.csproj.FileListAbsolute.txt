@@ -1,0 +1,13 @@
+C:\Users\Jefferson Abellanosa\Desktop\IntelligentSystems\HopfieldRecognizer\bin\Debug\HopfieldRecognizer.exe.config
+C:\Users\Jefferson Abellanosa\Desktop\IntelligentSystems\HopfieldRecognizer\bin\Debug\HopfieldRecognizer.exe
+C:\Users\Jefferson Abellanosa\Desktop\IntelligentSystems\HopfieldRecognizer\bin\Debug\HopfieldRecognizer.pdb
+C:\Users\Jefferson Abellanosa\Desktop\IntelligentSystems\HopfieldRecognizer\bin\Debug\HopfieldNeuralNetwork.dll
+C:\Users\Jefferson Abellanosa\Desktop\IntelligentSystems\HopfieldRecognizer\bin\Debug\ImageMagnifier.dll
+C:\Users\Jefferson Abellanosa\Desktop\IntelligentSystems\HopfieldRecognizer\obj\Debug\HopfieldRecognizer.csproj.AssemblyReference.cache
+C:\Users\Jefferson Abellanosa\Desktop\IntelligentSystems\HopfieldRecognizer\obj\Debug\HopfieldRecognizer.frmAddDistortion.resources
+C:\Users\Jefferson Abellanosa\Desktop\IntelligentSystems\HopfieldRecognizer\obj\Debug\HopfieldRecognizer.frmMain.resources
+C:\Users\Jefferson Abellanosa\Desktop\IntelligentSystems\HopfieldRecognizer\obj\Debug\HopfieldRecognizer.Properties.Resources.resources
+C:\Users\Jefferson Abellanosa\Desktop\IntelligentSystems\HopfieldRecognizer\obj\Debug\HopfieldRecognizer.csproj.GenerateResource.cache
+C:\Users\Jefferson Abellanosa\Desktop\IntelligentSystems\HopfieldRecognizer\obj\Debug\HopfieldRecognizer.csproj.CoreCompileInputs.cache
+C:\Users\Jefferson Abellanosa\Desktop\IntelligentSystems\HopfieldRecognizer\obj\Debug\HopfieldRecognizer.exe
+C:\Users\Jefferson Abellanosa\Desktop\IntelligentSystems\HopfieldRecognizer\obj\Debug\HopfieldRecognizer.pdb
